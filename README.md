@@ -9,3 +9,8 @@ adding a 2nd paragrapgh here and This is a change made in the conflict-branch.
 
 
 
+# changes in conflict branch
+i made these when i was in conflict branch
+
+# changes in main
+adding this from main branch
